@@ -1,5 +1,6 @@
 # Flight_Simulator_Client_And_Audio
 基于FSD协议的供MFS2020, P3D, X-Plane的语音、连飞一体化客户端
+
 本项目使用GPL3.0协议开源，使用请遵循开源协议相应内容！
 
 MSFS2020/P3D/XPlane FSD Client 开发指南
