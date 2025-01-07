@@ -96,8 +96,8 @@ namespace VoiceChatClient {
                     Altitude = aircraftData.Altitude,
                     Heading = aircraftData.Heading,
                     GroundSpeed = aircraftData.GroundSpeed,
-                    AircraftType = "B738", // 默认使用波音737-800，实际应该从MSFS获取
-                    Squawk = "7000"  // 默认应答机码
+                    AircraftType = "B738",
+                    Squawk = "7000"
                 };
 
                 // 直接发送FSD格式字符串
