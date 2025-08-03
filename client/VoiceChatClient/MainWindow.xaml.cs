@@ -132,12 +132,10 @@ namespace VoiceChatClient {
                         }
                     }
                     else if (args.Data.StartsWith("#")) {
-                        // 这是语音数据
-                        // ... 处理语音数据 ...
+                        return
                     }
                     else {
-                        // 其他类型的消息
-                        // ... 处理其他消息 ...
+                        return
                     }
                 };
 
